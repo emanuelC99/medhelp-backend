@@ -1,0 +1,8 @@
+ro\upt\medhelp\controllers\MedicalRecordController.class
+ro\upt\medhelp\controllers\IndexController.class
+ro\upt\medhelp\controllers\CaregiverController.class
+ro\upt\medhelp\controllers\PatientController.class
+ro\upt\medhelp\controllers\SensorController.class
+ro\upt\medhelp\controllers\DoctorController.class
+ro\upt\medhelp\controllers\UserController.class
+ro\upt\medhelp\ApiApplication.class
